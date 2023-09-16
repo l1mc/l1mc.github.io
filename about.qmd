@@ -1,5 +1,17 @@
 ---
-title: "About"
+title: "Mingcong Li"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/l1mc
 ---
 
-About this site
+Mingcong Li is the a student in UBC MDS 2023-2024. 
+
+## Education
+
+The University of British Columbia, Vancouver, Canada
+Master | Sept 2023 - June 2024

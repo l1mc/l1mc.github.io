@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Please read my introduction by navigating to “About”"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Mingcong Li",
+    "section": "",
+    "text": "Mingcong Li is the a student in UBC MDS 2023-2024."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Mingcong Li",
+    "section": "Education",
+    "text": "Education\nThe University of British Columbia, Vancouver, Canada Master | Sept 2023 - June 2024"
+  }
+]
